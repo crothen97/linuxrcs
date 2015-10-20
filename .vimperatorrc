@@ -1,0 +1,8 @@
+nmap s :stop<CR>
+nmap S :stopall<CR>
+
+nmap h :back<CR>
+nmap l :forward<CR>
+
+nmap ba :bmark! -f crothen -t
+
