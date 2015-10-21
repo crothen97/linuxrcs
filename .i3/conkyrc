@@ -57,8 +57,8 @@ cpu_avg_samples 1
 TEXT
 
 # Ethernet status
-#Ul: ${upspeed eth0} kb/s | \
-#Dl: ${downspeed eth0} kb/s | \
+Ul: ${upspeed eth0} kb/s | \
+Dl: ${downspeed eth0} kb/s | \
 # CPU stats
 CPU ${cpu}% | \
 RAM ${mem} | \
