@@ -6,8 +6,9 @@ export ZSH=/home/crothen/.oh-my-zsh
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
 ZSH_THEME="bullet-train"
-BULLETTRAIN_TIME_SHOW="false"
+BULLETTRAIN_TIME_SHOW="true"
 BULLETTRAIN_RUBY_SHOW="false"
+BULLETTRAIN_CONTEXT_SHOW="false"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
