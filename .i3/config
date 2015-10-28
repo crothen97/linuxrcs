@@ -136,8 +136,8 @@ bindsym $mod+Shift+Tab workspace prev
 bindsym $mod+Tab workspace next
 assign [class="(?i)chrome"] → 3
 assign [class="(?i)firefox"] → 3
-assign [class="(?i)subl3"] → 10
-assign [class="(?i)sublime_text"] → 10
+assign [class="(?i)subl3*"] → 7
+assign [class="(?i)sublime_text"] → 7
 assign [class="(?i)clion"] → 7
 assign [class="(?i)qtcreator"] → 8
 assign [class="(?i)pycharm"] → 9

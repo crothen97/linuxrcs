@@ -106,3 +106,10 @@ alias ikkcc='g++ -O2 -std=c++11 -likkcpr -pthread'
 export XDG_CONFIG_HOME=~/.config
 export nasql=nas:/nfs/Public/qinling
 export TERM="xterm-256color"
+
+export XIM="fcitx"
+export XIM_PROGRAM="fcitx"
+export XMODIFIERS="@im=fcitx"
+export GTK_IM_MODULE="fcitx"
+export QT_IM_MODULE="fcitx"
+export PYTHONPATH=~/.pylibs
